@@ -1,0 +1,33 @@
+{
+  "name": "flickrtest",
+  "version": "1.0.0",
+  "description": "Challenge - Flickr feed viewer and search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelghanam/FlickrTest.git"
+  },
+  "keywords": [
+    "flickr",
+    "node",
+    "express",
+    "request"
+  ],
+  "author": "aelghanam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelghanam/FlickrTest/issues"
+  },
+  "homepage": "https://github.com/aelghanam/FlickrTest#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.88.0",
+    "xml-js": "^1.6.7"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0"
+  }
+}
